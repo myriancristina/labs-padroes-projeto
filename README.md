@@ -1,8 +1,4 @@
-# labs-padroes-projeto
-
-
-
-Desafio Projeto Prático  
+# Desafio Projeto Prático  
 
 Bootcamp GFT Start Woman Java 
 
